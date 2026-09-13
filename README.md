@@ -1,1 +1,1 @@
- # audio-fingerprintin
+ # audio-fingerprinting
